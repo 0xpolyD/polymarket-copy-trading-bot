@@ -66,7 +66,7 @@ Not every signal deserves an order.
 
 ## Proof of Work
 
-Live wallet this ran on: [polymarket.com/@distinct-baguette](https://polymarket.com/@distinct-baguette)
+Live wallet this ran on: [polymarket.com/@distinct-baguette](https://polymarket.com/@ssibed)
 
 ### Backtest: 177 markets, 2 days, $100 per entry
 
@@ -224,7 +224,7 @@ And if it earns its keep, a star on the repo means a lot.
 
 ## Contact
 
-If you have any question, contact here [Telegram](https://t.me/xsugarboom)
+If you have any question, contact here [Telegram](https://t.me/ddev05)
 
 ## License
 
